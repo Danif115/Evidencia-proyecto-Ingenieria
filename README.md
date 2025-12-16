@@ -16,6 +16,15 @@ El código fuente del proyecto se encuentra en el siguiente repositorio:
 
 🔗 **[Repositorio del código - Spacius](https://github.com/davmatute-lang/spacius.git)**
 
+### 👥 Integrantes del Equipo
+
+| Nombre | Rol |
+|--------|-----|
+| **Ashlee Coello** | Frontend |
+| **Diego Rubio** | Backend |
+| **Danny Freire** | Pruebas y CI/CD |
+| **David Matute** | UX/UI |
+
 ---
 
 *Proyecto de Ingeniería de Software*
