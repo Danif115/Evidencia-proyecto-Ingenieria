@@ -18,12 +18,11 @@ El código fuente del proyecto se encuentra en el siguiente repositorio:
 
 ### 👥 Integrantes del Equipo
 
-| Nombre | Rol |
-|--------|-----|
-| **Ashlee Coello** | Frontend |
-| **Diego Rubio** | Backend |
-| **Danny Freire** | Pruebas y CI/CD |
-| **David Matute** | UX/UI |
+| Nombre |
+| **Ashlee Coello** |
+| **Diego Rubio** |
+| **Danny Freire** |
+| **David Matute** |
 
 ---
 
